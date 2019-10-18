@@ -168,7 +168,7 @@ spam(){
         mulai
     elif [ $pilih = "3" ]; then
         echo "Terimakasih sudah menggunakan Troll project"
-        sh infoN5C.sh
+        sh segalaScript.sh
     else
         clear
         echo "Kesalahan"
@@ -216,6 +216,7 @@ fi
  echo "OTW"
  sleep 1
  clear
+ fi
 git clone https://github.com/amsitlab/smsid-java.git
 cd ./smsid-java
 chmod +x ./install
