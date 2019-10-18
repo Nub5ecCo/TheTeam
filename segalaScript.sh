@@ -197,10 +197,11 @@ if [ $mulai = "y" ]; then
 else
       close
 fi
-sh infoN5C.sh
+sh segalaScript.sh
 fi
  
  if [ $p = 2 ]
+ then
  echo "033[33;1m Welcome To Ayy Project"
  sleep 2
  echo "033[32;1m Script ini berisi Litespam"
@@ -254,8 +255,7 @@ cd $HOME/LITESPAM/Tul/
 php 1
 fi
 
-if
-[ $mrrm = 2 ] || [ $mrrm = 2 ]
+if [ $mrrm = 2 ] || [ $mrrm = 2 ]
 then
 clear
 echo "\033[31;1m"
@@ -319,8 +319,7 @@ cd $HOME/LITESPAM/Tul/
 php 5.php
 fi
 
-if
-[ $mrrm = 6 ] || [ $mrrm = 6 ]
+if [ $mrrm = 6 ] || [ $mrrm = 6 ]
 then
 clear
 toilet -f standard -F gay "Surveyon "
@@ -333,8 +332,7 @@ cd $HOME/LITESPAM/Tul/
 php 6.php
 fi
 
-if
-[ $mrrm = 7 ] || [ $mrrm = 7 ]
+if [ $mrrm = 7 ] || [ $mrrm = 7 ]
 then
 clear
 toilet -f slant --gay "SMSID"
@@ -349,8 +347,7 @@ sleep 6
 smsid boom -y
 fi
 
-if
-[ $mrrm = 81 ] || [ $mrrm = 81 ]
+if [ $mrrm = 81 ] || [ $mrrm = 81 ]
 then
 clear
 toilet -f slant --gay "LiteSpam"
@@ -387,8 +384,7 @@ fi
 
 
 
-if
-[ $mrrm = 0 ] || [ $mrrm = 0 ]
+if [ $mrrm = 0 ] || [ $mrrm = 0 ]
 then
 echo "\033[31;1m Keluar"
 sleep 1
